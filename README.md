@@ -1,10 +1,13 @@
 # 💳 Pricing Cards Component
 
 Uma seção moderna e responsiva de cartões de preços desenvolvida com **HTML5** e **CSS3 puro**, baseada no desafio do [roadmap.sh](https://roadmap.sh).
+[Acesso o projeto no roadmap](https://roadmap.sh/projects/pricing-cards)
+
 
 ![Preview do projeto](image.png)
 
 🔗 **[Acesse o projeto online aqui](https://paaulo-13.github.io/Pricing-Cards/)**
+
 
 ---
 
